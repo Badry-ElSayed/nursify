@@ -81,15 +81,15 @@ Modern UI experience with animated transitions.
 
 ## ✨Core Features
 
-✅ Patient Condition Tracking
-✅ Task Management with Priority
-✅ Real-Time Dashboard Analytics
-✅ Performance Monitoring
-✅ Dark / Light Mode with Animation
-✅ Secure Authentication
-✅ Clean & Modern UI
-✅ Firebase Integration
-✅ Scalable Architecture
+- ✅ Patient Condition Tracking
+- ✅ Task Management with Priority
+- ✅ Real-Time Dashboard Analytics
+- ✅ Performance Monitoring
+- ✅ Dark / Light Mode with Animation
+- ✅ Secure Authentication
+- ✅ Clean & Modern UI
+- ✅ Firebase Integration
+- ✅ Scalable Architecture
 
 ## 🛠 Tech Stack
 
@@ -104,17 +104,17 @@ Modern UI experience with animated transitions.
 The app follows a clean and organized structure:
 
 ## ⚙️ Installation Guide
-1️⃣ Clone the repository
+- 1️⃣ Clone the repository
 git clone https://github.com/Badry-ELSayed/nursify.git
-2️⃣ Navigate into project
+- 2️⃣ Navigate into project
 cd nursify
-3️⃣ Install dependencies
+- 3️⃣ Install dependencies
 flutter pub get
-4️⃣ Add your Firebase configuration
+- 4️⃣ Add your Firebase configuration
 Place your:
 google-services.json (Android)
 GoogleService-Info.plist (iOS)
-5️⃣ Run the app
+- 5️⃣ Run the app
 flutter run
 
 ## 👨‍💻 Developed By
