@@ -85,6 +85,7 @@ class _AddTaskPageState extends State<AddTaskPage> {
                 /// Room
                 TextField(
                   controller: roomController,
+                  keyboardType: TextInputType.number,
                   decoration: InputDecoration(
                     prefixIcon: const Icon(Icons.bed, color: Colors.blue),
                     labelText: "Room Number",
