@@ -1,9 +1,9 @@
-📱 Application Screens
+# 📱 Application Screens
+
 1️⃣ Get Started Screen
 
-Clean onboarding interface
-
-Smooth navigation to authentication
+- Clean onboarding interface
+- Smooth navigation to authentication
 
 2️⃣ Authentication System
 
