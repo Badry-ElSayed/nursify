@@ -108,6 +108,7 @@ class _EditTaskPageState extends State<EditTaskPage> {
               // Room Number Field
               TextField(
                 controller: roomController,
+                keyboardType: TextInputType.number,
                 decoration: InputDecoration(
                   prefixIcon: const Icon(Icons.bed, color: Colors.blue),
                   labelText: "Room Number",
